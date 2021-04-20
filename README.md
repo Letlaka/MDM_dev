@@ -4,7 +4,7 @@ Mobile Device Management (MDM)
 a web application to help manage, track and administer mobile devices in a corporate environment.
 The Web app is built using  the django framework.
 
-##Next Steps
+## Next Steps
 1. Create a virtual environment to host the project
 2. use the *requirements.txt* file to install all dependencies
 3. from the terminal cd into **MDMproject** and run the follow command : `python manage.py makemigrations` press enter after
@@ -12,7 +12,7 @@ The Web app is built using  the django framework.
 
 after perfomring the steps above run this command: `python manage.py runserver` to start the local buid-in django webserver
 
-##To pull or commit?
+## To pull or commit?
 1. *pull* from the **main** branch
 2. *commit* new work to the **dev_code** branch where a moderator will review before commiting to **main**
 3. sign your code when you make commits
@@ -28,7 +28,6 @@ after perfomring the steps above run this command: `python manage.py runserver` 
 
 ## Helpful links
 ---
-
 ### Download / Install 
 If there is a need to manually install any of the dependencies links are below:
 1. [Python](https://www.python.org/)

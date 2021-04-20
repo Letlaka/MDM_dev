@@ -1,5 +1,4 @@
 # MDM_dev
----
 Mobile Device Management (MDM)
 a web application to help manage, track and administer mobile devices in a corporate environment.
 The Web app is built using  the django framework.
@@ -27,7 +26,7 @@ after perfomring the steps above run this command: `python manage.py runserver` 
 - [ ] Fix text on login and register page 
 
 ## Helpful links
----
+
 ### Download / Install 
 If there is a need to manually install any of the dependencies links are below:
 1. [Python](https://www.python.org/)
